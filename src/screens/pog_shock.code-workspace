@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"path": "../../../GitHub/react-basic/template/pog_shock"
+	},
+	{
+		"path": "../../__tests__"
+	},
+	{
+		"path": "../../android"
+	},
+	{
+		"path": "../../ios"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {}
+}
